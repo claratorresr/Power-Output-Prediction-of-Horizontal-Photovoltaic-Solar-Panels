@@ -1,1 +1,1 @@
-# Power-Output-Prediction-of-Horizontal-Photovoltaic-Solar-Panels
+# Power Output Prediction of Horizontal Photovoltaic Solar Panels
